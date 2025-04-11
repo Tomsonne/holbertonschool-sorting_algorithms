@@ -1,7 +1,8 @@
 #include "sort.h"
 
 /**
- * partition - Place le pivot à sa bonne position et trie les éléments autour
+ * partition - Place le pivot à sa bonne position
+ * et trie les éléments autour
  * @array: tableau à trier
  * @low: indice de début
  * @high: indice de fin
